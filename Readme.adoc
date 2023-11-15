@@ -1,3 +1,3 @@
 # officectl-model
 
-The model for officectl’s API.
+The model for https://github.com/Frizlab/officectl[officectl]’s API.
