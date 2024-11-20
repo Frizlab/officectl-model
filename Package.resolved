@@ -1,12 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "generic-json-swift",
+      "identity" : "generic-json",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/iwill/generic-json-swift.git",
+      "location" : "https://github.com/Frizlab/generic-json.git",
       "state" : {
-        "revision" : "0a06575f4038b504e78ac330913d920f1630f510",
-        "version" : "2.0.2"
+        "revision" : "bfae33a5e8d31af37b098e46197b49e94d4c0d9a",
+        "version" : "3.1.1"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Frizlab/swift-email.git",
       "state" : {
-        "revision" : "685374176c6a463b3ceba8d0b9cd9f2cd03eed18",
-        "version" : "0.2.5"
+        "revision" : "abe9997071c08e76f090eb2d2edc249f0951fc24",
+        "version" : "0.2.6"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Frizlab/UnwrapOrThrow.git",
       "state" : {
-        "revision" : "f35da77c8d86987e29fd8b77f78115ce7a144a0c",
-        "version" : "1.0.0"
+        "revision" : "085ea7b599b0db956541b7189a57b0c98f15337f",
+        "version" : "1.0.1"
       }
     }
   ],
